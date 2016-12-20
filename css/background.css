@@ -1,0 +1,41 @@
+
+
+body {
+  background-color: #161616;
+}
+
+
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:link, a:visited, {
+	background-color: E57E00;
+}
+
+a.animetitle {
+	#explore>.title .anime{
+		font-size: .8rem;
+		font-weight: 700;
+	}
+	a{
+		background: 0 0;
+		color: #f9f9f9;
+		text-decoration: none;
+	}
+	:after, :before{
+		box-sizing: inherit;
+	}
+	body{
+		-webkit-font-smoothing: antialiased;
+		font-family: Roboto,Helvetica,sans-serif;
+		line-height: 1.4285em;
+	}
+	selection{
+		background-color: #E57E00!important;
+		color: #f9f9f9;
+	}
+}
+
+
